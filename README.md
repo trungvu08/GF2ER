@@ -8,7 +8,7 @@ Please view the following:
 
 3 Minute Video: [YouTube Link](https://www.youtube.com/watch?v=D6H_QJu3uwQ)
 
-Presentation Slides: [Slides](https://github.com/trungvu08/GF2ER/blob/main/CFC%20Presentation.pptx)
+Video Slides: [Slides](https://github.com/trungvu08/GF2ER/blob/main/CFC%20Presentation.pptx)
 
 ## The Architecture
 Please view the following: [System Architecture](https://github.com/trungvu08/GF2ER/blob/main/CFC%20GFEXR_System%20Architecture.pdf)
