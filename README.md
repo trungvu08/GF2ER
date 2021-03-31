@@ -6,7 +6,7 @@ Please view the following:
 
 [Demo](https://github.com/trungvu08/GF2ER/blob/main/Global%20Flood%20Equity%20XR%20Demo.pdf)
 
-Presentation Video: [YouTube Link]
+3 Minute Video: [YouTube Link](https://www.youtube.com/watch?v=D6H_QJu3uwQ)
 
 Presentation Slides: [Slides](https://github.com/trungvu08/GF2ER/blob/main/CFC%20Presentation.pptx)
 
