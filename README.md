@@ -35,9 +35,9 @@ $ pip install django
 Or         $ pip install django  --upgrade (if already installed)
 
 **To run the website:**
-Download the project folder
+Download the project (located in master branch)
 
-In your terminal, CD into the rootProject folder and run:
+In your terminal, CD and then run:
 
 **Python manage.py runserver**
 	
