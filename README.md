@@ -4,6 +4,10 @@
 ## Demo
 Please view the following: [Demo](https://github.com/trungvu08/GF2ER/blob/main/Global%20Flood%20Equity%20XR%20Demo.pdf).
 
+Presentation Video: [YouTube Link]
+
+Presentation Slides: [Slides](https://github.com/trungvu08/GF2ER/blob/main/CFC%20Presentation.pptx).
+
 ## The Architecture
 Please view the following: [System Architecture](https://github.com/trungvu08/GF2ER/blob/main/CFC%20GFEXR_System%20Architecture.pdf).
 
