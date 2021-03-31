@@ -42,5 +42,7 @@ Or         $ pip install django  --upgrade (if already installed)
 Download the project folder
 
 In your terminal, CD into the rootProject folder and run:
+
 	**Python manage.py runserver**
+	
 The application will be hosted at **localhost:8000**
