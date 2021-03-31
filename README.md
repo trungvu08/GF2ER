@@ -6,11 +6,11 @@
 ## Long Description
 
 ## Getting Started
-
-Pre-req:
 In this section, you’ll be installing the prerequisites needed before you can bootstrap your project, such as Python 3.
 
- ·         Installing Python 3
+### Prerequisites:
+
+ ·         **Installing Python 3**
  
 There is a big chance that you already have Python 3 installed on your system. If you don’t, you can simply head to the official website
 
@@ -25,7 +25,7 @@ Finally, you can check if you have Python 3 installed by running the following c
 $ python3 --version
 Python 3.8.5 
 
-·         Installing Django
+·         **Installing Django**
 
 Django is the most popular Python framework for building web apps. It’s free, open source and written in python. Django offers a big collection of modules which you can use in your own projects. It makes it easy for developers to quickly build prototypes by providing a plethora of built-in APIs and sub-frameworks such as GeoDjango.
 
@@ -34,11 +34,12 @@ The Django package is available from the Python Package Index (PyPI)
 https://pypi.org/ so, you can simply use pip to install it by running the following command in your terminal:
 
 $ pip install django
+
 Or         $ pip install django  --upgrade (if already installed)
 
-To run the website:
+**To run the website:**
 Download the project folder
 
 In your terminal, CD into the rootProject folder and run:
-	Python manage.py runserver
-The application will be hosted at localhost:8000
+	**Python manage.py runserver**
+The application will be hosted at **localhost:8000**
