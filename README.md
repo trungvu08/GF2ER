@@ -7,8 +7,6 @@ Please view the following: [Demo](https://github.com/trungvu08/GF2ER/blob/main/G
 ## The Architecture
 Please view the following: [System Architecture](https://github.com/trungvu08/GF2ER/blob/main/CFC%20GFEXR_System%20Architecture.pdf).
 
-## Long Description
-
 ## Getting Started
 In this section, you’ll be installing the prerequisites needed before you can bootstrap your project, such as Python 3.
 
