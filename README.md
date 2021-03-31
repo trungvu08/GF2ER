@@ -23,6 +23,7 @@ If you have a problem installing Python 3 or want more information, you can chec
 Finally, you can check if you have Python 3 installed by running the following command:
 
 $ python3 --version
+
 Python 3.8.5 
 
 ·         **Installing Django**
